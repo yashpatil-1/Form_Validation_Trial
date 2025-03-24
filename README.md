@@ -9,6 +9,7 @@ This project features a **basic login form with validation** using **HTML, CSS, 
 - Enhances **user experience** by preventing incorrect submissions.
 
 ## 🛠️ Tech Stack
+
 - **HTML5** – Structure of the form.
 - **CSS3** – Styling and responsiveness.
 - **JavaScript** – Handles validation logic.
